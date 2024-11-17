@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirstBasicApi", "CodeFirstBasicApi.csproj", "{A4143509-8D62-42B0-B06F-C286FF9310E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4143509-8D62-42B0-B06F-C286FF9310E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4143509-8D62-42B0-B06F-C286FF9310E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4143509-8D62-42B0-B06F-C286FF9310E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4143509-8D62-42B0-B06F-C286FF9310E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A037E19-1ED9-4400-AAFC-A84F8379AEDC}
+	EndGlobalSection
+EndGlobal
